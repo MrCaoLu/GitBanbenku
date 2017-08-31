@@ -1,19 +1,5 @@
-
-
-
-
-
-
 cccccccccccc
-
-
-
 bbbbbbbbbbbbb
-
-
-
 aaaaaaaaaaaaa
-
 Git is a version control system.
-
 Git is free software.
